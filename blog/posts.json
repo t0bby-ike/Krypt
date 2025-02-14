@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "title": "Understanding 256-bit AES Encryption",
+            "description": "Learn how 256-bit AES encryption works and why it's one of the most secure encryption standards available.",
+            "file": "encryption-decryption.html"
+        },
+        {
+            "title": "The Importance of Data Security in 2025",
+            "description": "Explore the latest trends in data security and how encryption plays a crucial role in protecting sensitive information.",
+            "file": "data-security-2025.html"
+        },
+        {
+            "title": "How to Securely Share Encrypted Text",
+            "description": "Discover best practices for sharing encrypted text securely with your team or clients.",
+            "file": "secure-text-sharing.html"
+        },
+        {
+            "title": "The Evolution of Encryption: From Caesar Cipher to AES",
+            "description": "Explore the history of encryption, from the Caesar Cipher to modern AES encryption, and learn how tools like Krypts are shaping the future of data security.",
+            "file": "evolution-of-encryption.html"
+        },
+        {
+            "title": "How to Protect Your Data with End-to-End Encryption",
+            "description": "Discover the importance of end-to-end encryption and how to use tools like Krypts to safeguard your data from unauthorized access.",
+            "file": "end-to-end-encryption.html"
+        },
+{
+            "title": "The Importance of Multi-Factor Authentication (MFA) in Cybersecurity",
+            "description": "Learn why Multi-Factor Authentication (MFA) is a critical component of modern cybersecurity and how to implement it effectively.",
+            "file": "mfa.html"
+        }
+    ]
+}
