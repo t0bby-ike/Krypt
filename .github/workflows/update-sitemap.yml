@@ -13,7 +13,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
-        token: ${{ secrets.MY_PAT }}  # Add this line to authenticate the push
+        token: ${{ "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" }}  # Add this line to authenticate the push
 
     - name: Set up Python
       uses: actions/setup-python@v2
