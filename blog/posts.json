@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "title": "Understanding Encryption and Decryption ",
+            "description": "Learn how aes encryption and decryption works and why it's one of the most secure encryption standards available.",
+            "file": "encryption-decryption.html"
+        },
+        {
+            "title": "The Importance of Data Security in 2025",
+            "description": "Explore the latest trends in data security and how encryption plays a crucial role in protecting sensitive information.",
+            "file": "data-security-2025.html"
+        },
+        {
+            "title": "How to Securely Share Encrypted Text",
+            "description": "Discover best practices for sharing encrypted text securely with your team or clients.",
+            "file": "secure-text-sharing.html"
+        }
+    ]
+}
