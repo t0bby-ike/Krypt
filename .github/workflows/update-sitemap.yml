@@ -34,4 +34,4 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add sitemap.xml
         git commit -m "Automated sitemap update"
-        git push origin HEAD:${{ github.ref }}  # Use the token to push changes
+        git push origin HEAD:main  # Use the token to push changes
