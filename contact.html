@@ -92,7 +92,7 @@
         <div class="container">
             <div class="row">                      
                 <div class="col-lg-12 align-self-center text-center">
-                    <h1 style="margin-bottom: -1px; font-size:40px">Contact Us</h1>
+                    <h1 style="margin-bottom: -1px; font-size:40px; color:#baba88">Contact Us</h1>
                     <p>We're Here to Help</p>                
                 </div>
             </div>
@@ -103,10 +103,10 @@
     <main class="main-content">
         <section class="section pt-6 pb-6 pl-4 pr-4">
             <div class="container">      
-                <h2>Get in Touch</h2>
+                <h2 style="color:#baba88">Get in Touch</h2>
                 <p>If you have any questions, feedback, or need support, feel free to reach out to us. We'll get back to you as soon as possible.</p>
 
-                <form action="mailto:skull@drstryk.com" method="post" enctype="text/plain">
+                <form id="contactForm">
                     <div class="form-group">
                         <label for="name">Your Name</label>
                         <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name" required>
@@ -126,7 +126,7 @@
                     <button type="submit" class="btn btn-primary">Send Message</button>
                 </form>
 
-                <h2 class="mt-5">Other Ways to Reach Us</h2>
+                <h2 class="mt-5" style="color:#baba88">Other Ways to Reach Us</h2>
                 <p>If you prefer, you can also contact us directly via email:</p>
                 <p><strong>Email:</strong> <a href="mailto:skull@drstryk.com">skull@drstryk.com</a></p>
             </div>
@@ -195,6 +195,34 @@
                 }
             });
         }
+
+        // Handle form submission
+        document.getElementById('contactForm').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent default form submission
+
+            // Get form data
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const subject = document.getElementById('subject').value;
+            const message = document.getElementById('message').value;
+
+            // Validate form fields
+            if (!name || !email || !subject || !message) {
+                alert('Please fill out all fields before submitting.');
+                return;
+            }
+
+            // Construct the mailto URL
+            const mailtoUrl = `mailto:skull@drstryk.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
+                `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`
+            )}`;
+
+            // Log the mailto URL for debugging
+            console.log('Mailto URL:', mailtoUrl);
+
+            // Open the default email client
+            window.location.href = mailtoUrl;
+        });
     </script>
 </body>
 </html>
