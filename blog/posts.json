@@ -29,6 +29,11 @@
             "title": "The Importance of Multi-Factor Authentication (MFA) in Cybersecurity",
             "description": "Learn why Multi-Factor Authentication (MFA) is a critical component of modern cybersecurity and how to implement it effectively.",
             "file": "mfa.html"
+        },
+{
+            "title": "An Introduction to Cybersecurity ",
+            "description": "introduction to cybersecurity, cybersecurity basics, cybersecurity tools, data protection, internet security",
+            "file": "cyber-sec-introduction.html"
         }
     ]
 }
