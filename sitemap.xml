@@ -1,1 +1,44 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://krypt.drstryk.com/</loc>
+	<lastmod>2025-02-14T19:10:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://krypt.drstryk.com/index.html</loc>
+	<lastmod>2025-02-14T19:10:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://krypt.drstryk.com/about.html</loc>
+	<lastmod>2025-02-14T19:10:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://krypt.drstryk.com/contact.html</loc>
+	<lastmod>2025-02-14T19:10:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://krypt.drstryk.com/privacy.html</loc>
+	<lastmod>2025-02-14T19:10:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://krypt.drstryk.com/cookies.html</loc>
+	<lastmod>2025-02-14T19:10:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://krypt.drstryk.com/faq.html</loc>
+	<lastmod>2025-02-14T19:10:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://krypt.drstryk.com/blog/</loc>
+	<lastmod>2025-02-14T19:10:48+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
