@@ -1,6 +1,16 @@
 {
     "posts": [
 {
+            "title": "The Future of Data Privacy in 2025 - Krypts Blog",
+            "description": "Explore the future of data privacy in 2025, the challenges ahead, and how encryption tools like Krypts are essential for protecting sensitive information.",
+            "file": "future-of-data-privacy.html"
+        },
+{
+            "title": "Emerging Trends in Cybersecurity for 2025 - Krypts Blog",
+            "description": "Discover the emerging trends in cybersecurity for 2025 and how tools like Krypts are revolutionizing data protection.",
+            "file": "trends-in-cybersecurity.html"
+        },
+{
             "title": "The Role of Artificial Intelligence in Modern Cybersecurity",
             "description": "Explore how Artificial Intelligence (AI) is revolutionizing cybersecurity, enhancing threat detection, and improving response times.",
             "file": "ai-in-cybersecurity.html"
