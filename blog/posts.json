@@ -1,5 +1,10 @@
 {
     "posts": [
+{
+            "title": "The Role of Artificial Intelligence in Modern Cybersecurity",
+            "description": "Explore how Artificial Intelligence (AI) is revolutionizing cybersecurity, enhancing threat detection, and improving response times.",
+            "file": "ai-in-cybersecurity.html"
+        },
         {
             "title": "Understanding 256-bit AES Encryption",
             "description": "Learn how 256-bit AES encryption works and why it's one of the most secure encryption standards available.",
