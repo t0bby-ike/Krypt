@@ -44,7 +44,7 @@ function loadBannerAd() {
         // Add the invoke script
         const invokeScript = document.createElement('script');
         invokeScript.type = 'text/javascript';
-        invokeScript.src = '//www.highperformanceformat.com/4ac78650522e2a12d6f5ae29674a29b8/invoke.js';
+        invokeScript.src = 'https://www.highperformanceformat.com/4ac78650522e2a12d6f5ae29674a29b8/invoke.js';
         bannerAdContainer.appendChild(invokeScript);
 
         // Insert the ad container at a random position
@@ -57,7 +57,7 @@ function loadPopUnderAd() {
     // Add the pop-under ad script
     const popUnderScript = document.createElement('script');
     popUnderScript.type = 'text/javascript';
-    popUnderScript.src = '//pl25949423.effectiveratecpm.com/0b/e1/d4/0be1d4aeebbe71ebce21beecdf0f3d05.js';
+    popUnderScript.src = 'https://pl25949423.effectiveratecpm.com/0b/e1/d4/0be1d4aeebbe71ebce21beecdf0f3d05.js';
     document.head.appendChild(popUnderScript);
 }
 
@@ -102,7 +102,7 @@ function loadSocialBarAd() {
         // Add the social bar ad script
         const socialBarAdScript = document.createElement('script');
         socialBarAdScript.type = 'text/javascript';
-        socialBarAdScript.src = '//pl25949899.effectiveratecpm.com/cd/88/57/cd88574e56a8b5884bc4dbfcfd79c869.js';
+        socialBarAdScript.src = 'https://pl25949899.effectiveratecpm.com/cd/88/57/cd88574e56a8b5884bc4dbfcfd79c869.js';
         socialBarAdContainer.appendChild(socialBarAdScript);
 
         // Insert the ad container at a random position
@@ -124,8 +124,7 @@ function loadNativeBannerAd() {
         const nativeBannerAdScript = document.createElement('script');
         nativeBannerAdScript.type = 'text/javascript';
         nativeBannerAdScript.async = true;
-        nativeBannerAdScript.dataset.cfasync = 'false';
-        nativeBannerAdScript.src = '//pl25949916.effectiveratecpm.com/5e312d546ef05f84b4a69bfa056c0d8c/invoke.js';
+        nativeBannerAdScript.src = 'https://pl25949916.effectiveratecpm.com/5e312d546ef05f84b4a69bfa056c0d8c/invoke.js';
         nativeBannerAdContainer.appendChild(nativeBannerAdScript);
 
         // Add the container for the native banner ad
