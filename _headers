@@ -1,0 +1,5 @@
+/*
+  Content-Security-Policy:
+    script-src 'self' https://www.highperformanceformat.com https://pl25949423.effectiveratecpm.com https://pl25949899.effectiveratecpm.com https://pl25949916.effectiveratecpm.com;
+    frame-src 'self' https://www.highperformanceformat.com;
+    connect-src 'self' https://www.highperformanceformat.com https://pl25949423.effectiveratecpm.com https://pl25949899.effectiveratecpm.com https://pl25949916.effectiveratecpm.com;
