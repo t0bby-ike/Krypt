@@ -1,6 +1,24 @@
 {
     "posts": [
 {
+
+            "title": "The Evolution of Blockchain Technology in Cybersecurity - Krypts Blog",
+            "description": "Explore how blockchain technology is transforming cybersecurity, offering decentralized solutions, and enhancing data integrity.",
+            "file": "evolution-blockchain-technology.html"
+        },
+{
+
+            "title": "The Future of Quantum Computing in Cybersecurity - Krypts Blog",
+            "description": "Discover how quantum computing is set to revolutionize cybersecurity, offering unprecedented computational power and new challenges.",
+            "file": "the-future-of-quantom-computing-in-cybersecurity.html"
+        },
+{
+
+            "title": "The Future of Quantum Computing and Its Impact on Cybersecurity - Krypts Blog",
+            "description": "Explore how quantum computing is set to revolutionize cybersecurity, the challenges it poses, and the opportunities it creates for securing digital systems.",
+            "file": "quantom-computing.html"
+        },
+{
             "title": "The Evolution of Cloud Computing in 2025 - Krypts Blog",
             "description": "Explore the evolution of cloud computing in 2025, its impact on businesses, and how tools like Krypts are enhancing data security in the cloud.",
             "file": "the-evolution-of-cloud-computing-2025.html"
