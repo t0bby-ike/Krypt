@@ -115,7 +115,6 @@ function myFunction() {
   class="form"
   method="POST"
   name="contact"
-  action=myfunction()
   data-netlify="true"
 >
                     <div class="form-group">
@@ -134,7 +133,7 @@ function myFunction() {
                         <label for="message">Message</label>
                         <textarea class="form-control" id="message" name="message" rows="5" placeholder="Enter your message" required></textarea>
                     </div>
-                    <button type="submit" class="btn btn-primary">Send Message</button>
+                    <button onclick="myFunction()" type="submit" class="btn btn-primary">Send Message</button>
                 </form>
 
                 <h2 class="mt-5" style="color:#baba88">Other Ways to Reach Us</h2>
